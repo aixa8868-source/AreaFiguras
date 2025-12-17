@@ -1,3 +1,4 @@
+#cervantes
 base = float(input("Ingresa la base del rectángulo: "))
 altura = float(input("Ingresa la altura del rectángulo: "))
 
